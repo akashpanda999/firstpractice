@@ -1,0 +1,1 @@
+This file is to write a sample text for git command practice
